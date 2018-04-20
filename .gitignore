@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/ServerApplication/v15
+/packages/WebActivatorEx.2.0
+/ServerApplication.v3.ncrunchsolution.user
+/.vs/ClientApplication/v15/Server/sqlite3/storage.ide-shm
+/.vs/ClientApplication/v15/Server/sqlite3/storage.ide-wal

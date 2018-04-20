@@ -3,7 +3,11 @@
 ################################################################################
 
 /.vs/ServerApplication/v15
-/packages/WebActivatorEx.2.0
-/ServerApplication.v3.ncrunchsolution.user
+/packages
+*.ncrunchsolution
 /.vs/ClientApplication/v15/Server/sqlite3/storage.ide-shm
 /.vs/ClientApplication/v15/Server/sqlite3/storage.ide-wal
+*.sqlite
+*.sqlite-journal
+*.cache
+bin/

@@ -2,7 +2,7 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-/.vs/ServerApplication/v15
+/.vs
 /packages
 *.ncrunchsolution
 /.vs/ClientApplication/v15/Server/sqlite3/storage.ide-shm
